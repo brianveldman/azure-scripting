@@ -1,0 +1,2 @@
+Register-AzProviderFeature -FeatureName AllowMultipleAddressPrefixesOnSubnet -ProviderNamespace Microsoft.Network
+Register-AzProviderFeature -FeatureName AllowDeletionOfIpPrefixFromSubnet -ProviderNamespace Microsoft.Network
